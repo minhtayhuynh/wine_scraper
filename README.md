@@ -22,10 +22,4 @@ python vivino_scraper.py
 Pull requests are welcome! Please follow the guidelines in the Issues section.
 
 ## License
-MIT
-
-Save and commit:
-
-git add README.md
-git commit -m "Added README.md"
-git push origin main
+MINH TAY HUYNH
